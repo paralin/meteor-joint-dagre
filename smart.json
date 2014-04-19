@@ -1,0 +1,12 @@
+{
+  "name": "joint-dagre",
+  "description": "Dagre plugin for jointjs.",
+  "homepage": "http://jointjs.com/",
+  "author": "Christian Stewart <kidovate@gmail.com>",
+  "version": "0.8.1",
+  "git": "https://github.com/kidovate/meteor-joint.git",
+  "packages": 
+  {
+    "joint": {}
+  }
+}
